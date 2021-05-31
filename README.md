@@ -29,8 +29,8 @@ Os usuários serão capazes de:
 
 ### Links
 
-- URL da solução: [Add solution URL here](https://your-solution-url.com)
-- URL do site: [Add live site URL here](https://your-live-site-url.com)
+- URL da solução: https://www.frontendmentor.io/solutions/soluo-mobilefirst-com-bem-SWL37-N-M
+- URL do site: https://stats-preview-card-component-omega.vercel.app/
 
 ## Meu processo
 
